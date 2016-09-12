@@ -1,0 +1,42 @@
+C:\Work\Projects\HowToSamples_Repository\WSDLToWebService\WSDLToWebService\TestProject\bin\TestProject.dll
+C:\Work\Projects\HowToSamples_Repository\WSDLToWebService\WSDLToWebService\TestProject\bin\TestProject.pdb
+C:\Work\Projects\HowToSamples_Repository\WSDLToWebService\WSDLToWebService\TestProject\obj\Debug\TestProject.dll
+C:\Work\Projects\HowToSamples_Repository\WSDLToWebService\WSDLToWebService\TestProject\obj\Debug\TestProject.pdb
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\TestProject.dll.config
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\TestProject.dll
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\TestProject.pdb
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\FluentAssertions.Core.dll
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\FluentAssertions.dll
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\MongoDB.Bson.dll
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.Core.dll
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.dll
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.Legacy.dll
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\FluentAssertions.pdb
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\FluentAssertions.xml
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\FluentAssertions.Core.pdb
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\FluentAssertions.Core.xml
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\MongoDB.Bson.xml
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.xml
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.Legacy.xml
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\obj\Debug\TestProject.dll
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\obj\Debug\TestProject.pdb
+C:\Users\TSAdmin\documents\visual studio 2013\Projects\Generating a Web Ser1\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\TestProject.dll.config
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\TestProject.dll
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\TestProject.pdb
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\FluentAssertions.Core.dll
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\FluentAssertions.dll
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\MongoDB.Bson.dll
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.Core.dll
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.dll
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.Legacy.dll
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\FluentAssertions.pdb
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\FluentAssertions.xml
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\FluentAssertions.Core.pdb
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\FluentAssertions.Core.xml
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\MongoDB.Bson.xml
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.xml
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\bin\MongoDB.Driver.Legacy.xml
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\obj\Debug\TestProject.dll
+C:\Users\60052337\Desktop\00000\Generating a Web Ser1\TestProject\obj\Debug\TestProject.pdb

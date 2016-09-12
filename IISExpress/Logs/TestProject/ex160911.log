@@ -1,0 +1,32 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2016-09-11 05:26:35
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-11 05:26:35 ::1 GET /IntelliMongo.asmx - 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko - 200 0 0 12632
+2016-09-11 05:26:36 ::1 GET /favicon.ico - 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko - 404 0 2 48
+2016-09-11 05:26:38 ::1 GET /__browserLink/requestData/ef7049b4c2874edcbf0d371dc6d8f162 version=2 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx 404 0 2 352
+2016-09-11 05:26:42 127.0.0.1 GET /IntelliMongo.asmx - 6091 - 127.0.0.1 Apache-HttpClient/4.1.1+(java+1.5) - 200 0 0 1408
+2016-09-11 05:26:48 ::1 GET /IntelliMongo.asmx op=searchEntities 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx 200 0 0 113
+2016-09-11 05:26:48 ::1 GET /favicon.ico - 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko - 404 0 2 2
+2016-09-11 05:26:48 ::1 GET /__browserLink/requestData/1006de996c35476e80bf9e8f6ea7dc55 version=2 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx?op=searchEntities 200 0 0 298
+2016-09-11 05:26:55 ::1 GET /IntelliMongo.asmx - 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx?op=searchEntities 200 0 0 33
+2016-09-11 05:26:55 ::1 GET /__browserLink/requestData/7ecfd83c48f843b087a8180a09b54741 version=2 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx 200 0 0 6
+2016-09-11 05:26:57 ::1 GET /IntelliMongo.asmx op=searchEntities 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx 200 0 0 16
+2016-09-11 05:26:57 ::1 GET /__browserLink/requestData/7a19dc08ebf0458f81c363903846e1d5 version=2 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx?op=searchEntities 200 0 0 7
+2016-09-11 05:27:07 127.0.0.1 GET /IntelliMongo.asmx op=searchEntities 6091 - 127.0.0.1 Apache-HttpClient/4.1.1+(java+1.5) - 200 0 0 20
+2016-09-11 05:27:25 ::1 GET /IntelliMongo.asmx - 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx?op=searchEntities 200 0 0 9
+2016-09-11 05:27:25 ::1 GET /__browserLink/requestData/33aa5d3a0c364e32b49f72daaf0f463d version=2 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx 200 0 0 6
+2016-09-11 05:27:31 ::1 GET /IntelliMongo.asmx wsdl 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko - 200 0 0 47
+2016-09-11 05:27:45 127.0.0.1 GET /IntelliMongo.asmx wsdl 6091 - 127.0.0.1 Apache-HttpClient/4.1.1+(java+1.5) - 200 0 0 3
+2016-09-11 05:27:56 ::1 GET /IntelliMongo.asmx op=searchEntities 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx 200 0 0 10
+2016-09-11 05:27:56 ::1 GET /__browserLink/requestData/8a959c778fdf4e859a6510ada966425e version=2 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx?op=searchEntities 200 0 0 8
+2016-09-11 05:28:39 ::1 POST /IntelliMongo.asmx/searchEntities - 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+TS+Desktop+NG;+rv:11.0)+like+Gecko http://localhost:6091/IntelliMongo.asmx?op=searchEntities 500 0 0 39560
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2016-09-11 22:48:21
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-09-11 22:48:21 ::1 GET /IntelliMongo.asmx - 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 0 0 10967
+2016-09-11 22:48:21 ::1 GET /favicon.ico - 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://localhost:6091/IntelliMongo.asmx 404 0 2 80
+2016-09-11 22:48:22 ::1 GET /__browserLink/requestData/ea14a525bab64edba1b9fdf916d0170b version=2 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://localhost:6091/IntelliMongo.asmx 200 0 0 332
+2016-09-11 22:48:22 ::1 GET /IntelliMongo.asmx op=searchEntities 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://localhost:6091/IntelliMongo.asmx 200 0 0 175
+2016-09-11 22:48:24 ::1 GET /__browserLink/requestData/9a868a8b33744c29894881d5e5be03a9 version=2 6091 - ::1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://localhost:6091/IntelliMongo.asmx?op=searchEntities 200 0 0 167
